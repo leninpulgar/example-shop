@@ -1,5 +1,7 @@
 # Descripción
 
+Example Shop V 1.0
+
 ## Correr en dev
 1. Clonar el repositorio
 2. Crear una copia del archivo ```.env.template``` y renombrarlo a ```.env``` y cambiar las variables de entorno.
